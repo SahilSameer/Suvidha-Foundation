@@ -1,0 +1,10 @@
+@media screen and (max-width:1000px) {
+    body{
+        background-color: greenyellow;
+    }
+    .container1{
+        height: 10vh;
+        flex-direction: column;
+    }
+
+}
